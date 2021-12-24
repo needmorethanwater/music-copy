@@ -1,2 +1,1 @@
-# music-copy
-music-copy but better
+# music-course
